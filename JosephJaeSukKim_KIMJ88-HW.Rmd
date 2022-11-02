@@ -1,0 +1,23 @@
+---
+title: "Computational Reproducibility Homework"
+author: "JJ"
+date: "2022-11-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Homework
+
+* Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request). [editing for pull request]
+
+* Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
+I learnt about how many collaborators can use GitHub together using tools such as pull requests to merge different changes together to keep things coherent.
+
+* Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+That a brief summarizing comment should be left for any and all program. This should indicate how the program is/was used, and when appropriate should also include reasonable values for parameters.
+Tools like R and/or GitHub can be used to make computational tools and resources available to collaborators in addition to other researchers that may wish to review a study's methodology or attempt to reproduce it themselves. By indicating via summarizing comments, the code made available will be more likely to be used by others as the author intended and decrease the likelihood of confusion or misinterpretation.
+
+* Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
